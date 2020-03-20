@@ -6,10 +6,12 @@ handling on construction site
 
 Main goal of this project is propose automated assistance in construction sites with rovers.
 Rovers generate horizontal connections in construction sites combining with vertical transportation (cranes and lifts) creating a tridimensional grid to provide materials and tools just in time. 
+
  ![](git_1/1.jpg)
  
 # Process
-  ![](git_1/2.jpg)
+
+ ![](git_1/2.jpg)
   
 # Gmapping test # 1
 Robot: Kobuki Turtlebot 2 
@@ -19,7 +21,7 @@ Scanner: Orbbec Astra
 Platform: ROS Kinetic
 Connection: Laptop - Kobuki
 
-![](https://youtu.be/uq4MBJhVO40)
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/uq4MBJhVO40)
 
 # Gmapping test # 2
 Robot: Kobuki Turtlebot 2 
