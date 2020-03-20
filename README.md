@@ -72,7 +72,10 @@ alt="IMAGE ALT TEXT HERE" width="800" height="600" border="10" /></a>
 ![](git_1/8.gif)
 
 # Navigation # Autonomous with Obstacle Avoidance
-![](https://youtu.be/e3TXKnHYkUg)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=e3TXKnHYkUg
+" target="_blank"><img src="http://img.youtube.com/vi/e3TXKnHYkUg/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="800" height="600" border="10" /></a>
 
 # Navigation # ros nodes and topics
 ![](git_1/5.jpg)
