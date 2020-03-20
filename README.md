@@ -7,7 +7,7 @@ handling on construction site
 Main goal of this project is propose automated assistance in construction sites with rovers.
 Rovers generate horizontal connections in construction sites combining with vertical transportation (cranes and lifts) creating a tridimensional grid to provide materials and tools just in time. 
 
- ![](git_1/1.jpg)
+![](git_1/1.jpg)
  
 # Process
 
@@ -43,7 +43,7 @@ Location: IAAC 1st Floor
 Controller: Joystick (Bluetooth)
 Scanner: Orbbec Astra
 
-![](git_1/3.jpg)
+            ![](git_1/3.jpg)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-nsAyigQf_U
 " target="_blank"><img src="http://img.youtube.com/vi/-nsAyigQf_U/0.jpg" 
