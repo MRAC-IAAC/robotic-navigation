@@ -90,7 +90,10 @@ Connection: Laptop - Kobuki
 Obstacle: Human
 # Navigation # Autonomous with Obstacle Avoidance
 
-![](https://youtu.be/oEJEnuRZ1_4)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=oEJEnuRZ1_4
+" target="_blank"><img src="http://img.youtube.com/vi/oEJEnuRZ1_4/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="800" height="600" border="10" /></a>
+
 
 # Future explorations 
 ![](git_1/6.jpg)
