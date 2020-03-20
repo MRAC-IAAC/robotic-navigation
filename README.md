@@ -21,6 +21,10 @@ Scanner: Orbbec Astra
 Platform: ROS Kinetic
 Connection: Laptop - Kobuki
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=uq4MBJhVO40
+" target="_blank"><img src="http://img.youtube.com/vi/uq4MBJhVO40/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/youtu.be/uq4MBJhVO40/0.jpg)](https://youtu.be/uq4MBJhVO40)
 [![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/uq4MBJhVO40)
 
