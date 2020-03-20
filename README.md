@@ -8,10 +8,10 @@ Main goal of this project is propose automated assistance in construction sites 
 Rovers generate horizontal connections in construction sites combining with vertical transportation (cranes and lifts) creating a tridimensional grid to provide materials and tools just in time. 
  ![](git_1/1.jpg)
  
- ##Process
+# Process
   ![](git_1/2.jpg)
   
- ##Gmapping test # 1
+# Gmapping test # 1
 Robot: Kobuki Turtlebot 2 
 Location: IAAC Ground Floor
 Controller: Keyboard
@@ -21,7 +21,7 @@ Connection: Laptop - Kobuki
 
 ![](https://youtu.be/uq4MBJhVO40)
 
-##Gmapping test # 2
+# Gmapping test # 2
 Robot: Kobuki Turtlebot 2 
 Location: IAAC Ground Floor
 Controller: Joystick (Bluetooth)
@@ -30,7 +30,7 @@ Platform: ROS Kinetic
 Connection: Laptop - Kobuki
 ![](https://youtu.be/9qAt5a5Il8c)
 
-##Gmapping final # 2
+# Gmapping final # 2
 Robot: Kobuki Turtlebot 2 
 Location: IAAC 1st Floor
 Controller: Joystick (Bluetooth)
@@ -38,13 +38,13 @@ Scanner: Orbbec Astra
 ![](git_1/3.jpg)
 ![](https://youtu.be/-nsAyigQf_U)
 
-##Gmapping # ros nodes and topics
+# Gmapping # ros nodes and topics
 ![](git_1/4.jpg)
 
-##Navigation # Autonomous without Obstacle Avoidance (Test Space)
+# Navigation # Autonomous without Obstacle Avoidance (Test Space)
 ![](git_1/7.gif)
 
-##Navigation # Autonomous without Obstacle Avoidance
+# Navigation # Autonomous without Obstacle Avoidance
 Robot: Kobuki Turtlebot 2 
 Location: IAAC First Floor
 Controller: Auto
@@ -53,16 +53,16 @@ Platform: ROS Kinetic
 Connection: Laptop - Kobuki
 ![](https://youtu.be/NnIBdcd2nSU)
 
-##Navigation # Autonomous with Obstacle Avoidance (Test Space)
+# Navigation # Autonomous with Obstacle Avoidance (Test Space)
 ![](git_1/8.gif)
 
-##Navigation # Autonomous with Obstacle Avoidance
+# Navigation # Autonomous with Obstacle Avoidance
 ![](https://youtu.be/e3TXKnHYkUg)
 
-##Navigation # ros nodes and topics
+# Navigation # ros nodes and topics
 ![](git_1/5.jpg)
 
-##Navigation # with Detection
+# Navigation # with Detection
 Robot: Kobuki Turtlebot 2 
 Location: IAAC First Floor
 Controller: Human
@@ -70,11 +70,11 @@ Camera: Orbbec Astra
 Platform: ROS Kinetic
 Connection: Laptop - Kobuki
 Obstacle: Human
-##Navigation # Autonomous with Obstacle Avoidance
+# Navigation # Autonomous with Obstacle Avoidance
 
 ![](https://youtu.be/oEJEnuRZ1_4)
 
-##Future explorations 
+# Future explorations 
 ![](git_1/6.jpg)
 
 
