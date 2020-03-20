@@ -15,7 +15,9 @@ Rovers generate horizontal connections in construction sites combining with vert
   
 # Gmapping test # 1
 Robot: Kobuki Turtlebot 2 
+
 Location: IAAC Ground Floor
+
 Controller: Keyboard
 Scanner: Orbbec Astra
 Platform: ROS Kinetic
