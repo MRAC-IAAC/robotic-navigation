@@ -21,6 +21,7 @@ Scanner: Orbbec Astra
 Platform: ROS Kinetic
 Connection: Laptop - Kobuki
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/youtu.be/uq4MBJhVO40/0.jpg)](https://youtu.be/uq4MBJhVO40)
 [![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/uq4MBJhVO40)
 
 # Gmapping test # 2
