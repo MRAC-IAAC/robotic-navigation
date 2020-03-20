@@ -42,8 +42,12 @@ Robot: Kobuki Turtlebot 2
 Location: IAAC 1st Floor
 Controller: Joystick (Bluetooth)
 Scanner: Orbbec Astra
+
 ![](git_1/3.jpg)
-![](https://youtu.be/-nsAyigQf_U)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-nsAyigQf_U
+" target="_blank"><img src="http://img.youtube.com/vi/-nsAyigQf_U/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="800" height="600" border="10" /></a>
 
 # Gmapping # ros nodes and topics
 ![](git_1/4.jpg)
