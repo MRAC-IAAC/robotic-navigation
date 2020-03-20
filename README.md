@@ -19,8 +19,11 @@ Robot: Kobuki Turtlebot 2
 Location: IAAC Ground Floor
 
 Controller: Keyboard
+
 Scanner: Orbbec Astra
+
 Platform: ROS Kinetic
+
 Connection: Laptop - Kobuki
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=uq4MBJhVO40
@@ -29,10 +32,15 @@ alt="IMAGE ALT TEXT HERE" width="800" height="600" border="10" /></a>
 
 # Gmapping test # 2
 Robot: Kobuki Turtlebot 2 
+
 Location: IAAC Ground Floor
+
 Controller: Joystick (Bluetooth)
+
 Scanner: Orbbec Astra RTAB-Map (Real-Time Appearance-Based Mapping)
+
 Platform: ROS Kinetic
+
 Connection: Laptop - Kobuki
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9qAt5a5Il8c
@@ -40,9 +48,12 @@ Connection: Laptop - Kobuki
 alt="IMAGE ALT TEXT HERE" width="800" height="600" border="10" /></a>
 
 # Gmapping final # 2
-Robot: Kobuki Turtlebot 2 
+Robot: Kobuki Turtlebot 2
+
 Location: IAAC 1st Floor
+
 Controller: Joystick (Bluetooth)
+
 Scanner: Orbbec Astra
 
 ![](git_1/3.jpg)
@@ -59,10 +70,15 @@ alt="IMAGE ALT TEXT HERE" width="800" height="600" border="10" /></a>
 
 # Navigation # Autonomous without Obstacle Avoidance
 Robot: Kobuki Turtlebot 2 
+
 Location: IAAC First Floor
+
 Controller: Auto
+
 Camera: Orbbec Astra
+
 Platform: ROS Kinetic
+
 Connection: Laptop - Kobuki
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NnIBdcd2nSU
@@ -84,13 +100,18 @@ alt="IMAGE ALT TEXT HERE" width="800" height="600" border="10" /></a>
 
 # Navigation # with Detection
 Robot: Kobuki Turtlebot 2 
+
 Location: IAAC First Floor
+
 Controller: Human
+
 Camera: Orbbec Astra
+
 Platform: ROS Kinetic
+
 Connection: Laptop - Kobuki
+
 Obstacle: Human
-# Navigation # Autonomous with Obstacle Avoidance
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=oEJEnuRZ1_4
 " target="_blank"><img src="http://img.youtube.com/vi/oEJEnuRZ1_4/0.jpg" 
