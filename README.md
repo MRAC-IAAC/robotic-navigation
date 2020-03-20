@@ -32,7 +32,11 @@ Controller: Joystick (Bluetooth)
 Scanner: Orbbec Astra RTAB-Map (Real-Time Appearance-Based Mapping)
 Platform: ROS Kinetic
 Connection: Laptop - Kobuki
-![](https://youtu.be/9qAt5a5Il8c)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=9qAt5a5Il8c
+" target="_blank"><img src="http://img.youtube.com/vi/9qAt5a5Il8c)
+/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 
 # Gmapping final # 2
 Robot: Kobuki Turtlebot 2 
