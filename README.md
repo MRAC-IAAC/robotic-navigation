@@ -43,7 +43,7 @@ Location: IAAC 1st Floor
 Controller: Joystick (Bluetooth)
 Scanner: Orbbec Astra
 
-            ![](git_1/3.jpg)
+![](git_1/3.jpg)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-nsAyigQf_U
 " target="_blank"><img src="http://img.youtube.com/vi/-nsAyigQf_U/0.jpg" 
