@@ -62,7 +62,11 @@ Controller: Auto
 Camera: Orbbec Astra
 Platform: ROS Kinetic
 Connection: Laptop - Kobuki
-![](https://youtu.be/NnIBdcd2nSU)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=NnIBdcd2nSU
+" target="_blank"><img src="http://img.youtube.com/vi/NnIBdcd2nSU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="800" height="600" border="10" /></a>
+
 
 # Navigation # Autonomous with Obstacle Avoidance (Test Space)
 ![](git_1/8.gif)
